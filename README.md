@@ -6,3 +6,12 @@
 2. Knowledges:
 Documents: 1. Code syntax 2. Profitable strategy.
 Verfity document: check if ChatGPT could parse the PDF.
+Prompt for check : Could you clearly, one hundred percent parse the content in this PDF?
+
+
+
+## Tools:
+
+IPYNB -> pdf converter: https://www.vertopal.com/
+
+
